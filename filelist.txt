@@ -1,0 +1,5 @@
+.:
+filelist.txt
+initrd.gz
+ubunturescue.menu
+vmlinuz
